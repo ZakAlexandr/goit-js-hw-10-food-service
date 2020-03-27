@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/ZubanAlex/goit-js-hw-10-food-service",
+  "homepage": "https://zakalexandr.github.io/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
